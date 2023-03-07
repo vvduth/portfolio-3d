@@ -17,12 +17,12 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]"> Duc</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I bring a unique blend of technical expertise{" "}
+          Full-Stack Developer and Certificate Authority Expert 
             <br
               className="sm:bl
            hidden"
             />{" "}
-            and creative problem-solving to every project.
+            Crafting Innovative Solutions with React, Node JS, and Java Spring Boot{" "}
           </p>
         </div>
       </div>

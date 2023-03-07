@@ -20,11 +20,20 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import solididty from "./tech/solididty.png";
+import graphql from "./tech/graphql.png";
+import springboot from "./tech/springboot.png";
+import aws from "./tech/aws.png";
+import java from "./tech/java.png";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import tamk from "./company/tamk.png";
+import telia from "./company/telia.png";
+import integrify from "./company/integrify.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -45,6 +54,11 @@ export {
   git,
   html,
   javascript,
+  aws,
+  graphql,
+  solididty,
+  springboot,
+
   mongodb,
   nodejs,
   reactjs,
@@ -53,8 +67,12 @@ export {
   typescript,
   threejs,
   meta,
+  java,
   shopify,
   starbucks,
+  tamk,
+  telia,
+  integrify,
   tesla,
   carrent,
   jobit,
