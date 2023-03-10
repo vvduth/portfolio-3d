@@ -38,8 +38,29 @@ import integrify from "./company/integrify.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import pukedukecrypto from "./pukedukecrypto.png"
+import tiktok from "./tiktok.png"
+import natourpage from "./natourpage.png"
+import uniswap from "./uniswap.png"
+import pinterest from "./pinterest.png"
+import chads from "./chads.png"
+import aiimage from "./aiimage.png"
+import admin from "./admin.png"
+import ecom from "./ecom.png"
+import realestate from "./realestate.png"
+import chatcord from "./chatcord.png"
 export {
+  pukedukecrypto,
+  admin,
+  realestate,
+  chatcord,
+  ecom,
+  chads,
+  aiimage,
+  uniswap,
+  pinterest,
+  natourpage,
+  tiktok,
   logo,
   backend,
   creator,
