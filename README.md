@@ -19,7 +19,7 @@ This is a web application built with React and Three.js that showcases my person
 
 ## Demo
 
-You can check out the live demo of this project at [my-portfolio.com](https://www.my-portfolio.com).
+You can check out the live demo of this project [Here](https://willowy-kringle-c7cf3e.netlify.app/).
 
 ## Features
 
