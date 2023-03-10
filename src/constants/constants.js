@@ -182,27 +182,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "You have done well, you have learned a lot. Keep learning and keep focusing on learning. There is no rush for you finish your tasks, just make sure that you are doing it as well as you can.",
+    name: "Icognito Feedback",
+    designation: "Software developer",
+    company: "Telia",
+    image: telia,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "You've been doing good work with the listing. You've also bravely tried your hand at other kinds of tasks. Remember that we don't expect you to be perfect, we just expect you to listen and learn and improve, and show that in your work.",
+      name: "Icognito Feedback",
+      designation: "Software developer",
+      company: "Telia",
+      image: telia,
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Duc has gotten an ok start with CA work. It's still very early to say much more, but the potential is there to do well, as long as he keeps listening and learning, and asking for assistance when there's something unclear.",
+      name: "Icognito Feedback",
+      designation: "Software developer",
+      company: "Telia",
+      image: telia,
+  },
+  {
+    testimonial:
+      "Very good start. Remember that you have just began your developer journey, enjoy and try not to stress too much if something doesn't go as planned.",
+      name: "Icognito Feedback",
+      designation: "Software developer",
+      company: "Telia",
+      image: telia,
   },
 ];
 
@@ -317,7 +325,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tiktok,
+    image: pinterest,
     source_code_link: "https://github.com/vvduth/pinterest-clone",
   },
   {
