@@ -243,6 +243,7 @@ const projects = [
     ],
     image: realestate,
     source_code_link: "https://github.com/vvduth/refine-app",
+    website: "https://timely-rugelach-239e77.netlify.app",
   },
   {
     name: "ISellSpeed",
@@ -264,6 +265,7 @@ const projects = [
     ],
     image: ecom,
     source_code_link: "https://github.com/vvduth/above_v2",
+    website: "https://above-v2.vercel.app/"
   },
   {
     name: "Puke Duke Crypto",
@@ -285,9 +287,10 @@ const projects = [
     ],
     image: pukedukecrypto,
     source_code_link: "https://github.com/vvduth/web3-vite",
+    website: "https://coruscating-faloodeh-8dc41f.netlify.app/"
   },
   {
-    name: "PukeDuke Tok",
+    name: "TikTok Clone",
     description:
       "Ready to unleash your creativity and share your videos with the world? Our video sharing/TikTok-clone app is the perfect platform for you!",
     tags: [
@@ -306,9 +309,10 @@ const projects = [
     ],
     image: tiktok,
     source_code_link: "https://github.com/vvduth/tiktok-clone",
+    website: "https://tiktok-clone-pukeduke12.vercel.app/"
   },
   {
-    name: "PukeDuke Winterest",
+    name: "Pinterest Clone",
     description:
       "Looking for a visually stunning way to discover and share images? Our image sharing app with the same features as Pinterest is the perfect platform for you! Built using React and Sanity, our app offers an intuitive interface that allows you to browse and save images from millions of users worldwide.",
     tags: [
@@ -327,6 +331,7 @@ const projects = [
     ],
     image: pinterest,
     source_code_link: "https://github.com/vvduth/pinterest-clone",
+    website: "https://playful-pudding-ba904e.netlify.app/"
   },
   {
     name: "Natours",

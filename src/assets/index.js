@@ -49,6 +49,7 @@ import admin from "./admin.png"
 import ecom from "./ecom.png"
 import realestate from "./realestate.png"
 import chatcord from "./chatcord.png"
+import eyes from "./eyes.png"
 export {
   pukedukecrypto,
   admin,
@@ -68,6 +69,7 @@ export {
   web,
   github,
   menu,
+  eyes,
   close,
   css,
   docker,
