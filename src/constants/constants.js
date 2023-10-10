@@ -42,6 +42,9 @@ import {
   aws,
   java,
   graphql,
+  twitter,
+  netflix,
+  aircnc,
 } from "../assets";
 
 export const navLinks = [
@@ -183,23 +186,23 @@ const testimonials = [
   {
     testimonial:
       "You have done well, you have learned a lot. Keep learning and keep focusing on learning. There is no rush for you finish your tasks, just make sure that you are doing it as well as you can.",
-    name: "Icognito Feedback",
-    designation: "Software developer",
+    name: "Monthy Feedback - Mentti",
+    designation: "Software manager",
     company: "Telia",
     image: telia,
   },
   {
     testimonial:
       "You've been doing good work with the listing. You've also bravely tried your hand at other kinds of tasks. Remember that we don't expect you to be perfect, we just expect you to listen and learn and improve, and show that in your work.",
-      name: "Icognito Feedback",
-      designation: "Software developer",
+      name: "Monthy Feedback - Mentti",
+      designation: "Software developer- CA Team",
       company: "Telia",
       image: telia,
   },
   {
     testimonial:
       "Duc has gotten an ok start with CA work. It's still very early to say much more, but the potential is there to do well, as long as he keeps listening and learning, and asking for assistance when there's something unclear.",
-      name: "Icognito Feedback",
+      name: "Monthy Feedback -Mentti",
       designation: "Software developer",
       company: "Telia",
       image: telia,
@@ -207,8 +210,8 @@ const testimonials = [
   {
     testimonial:
       "Very good start. Remember that you have just began your developer journey, enjoy and try not to stress too much if something doesn't go as planned.",
-      name: "Icognito Feedback",
-      designation: "Software developer",
+      name: "Monthy Feedback - Mentti",
+      designation: "Software developer- CA Team",
       company: "Telia",
       image: telia,
   },
@@ -334,25 +337,70 @@ const projects = [
     website: "https://playful-pudding-ba904e.netlify.app/"
   },
   {
-    name: "Natours",
+    name: "Twiiter Clone",
     description:
-      "Ready to book your next adventure? Our tour-booking landing page is the perfect platform for finding and booking your next tour!",
+      "Dive into the TwiiterClone, a dynamic microblogging platform inspired by Twitter. Engage with a global community, share your thoughts in bite-sized posts, follow trending topics, and connect with like-minded individuals.",
     tags: [
       {
-        name: "html",
+        name: "nextJS",
         color: "blue-text-gradient",
       },
       {
-        name: "scss",
+        name: "prisma",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: natourpage,
+    image: twitter,
     source_code_link: "https://github.com/vvduth/node-natours",
+    website: "https://white-bird-nine.vercel.app/",
+  },
+  {
+    name: "Netflix Clone",
+    description:
+      "The ultimate hub for cinephiles and series enthusiasts! Drawing inspiration from Netflix, StreamScape offers an expansive library of films, series, and documentaries from across the globe.",
+    tags: [
+      {
+        name: "nextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: netflix,
+    source_code_link: "https://github.com/vvduth/node-natours",
+    website: "https://netflix-clone-vvduth.vercel.app/",
+  },
+  {
+    name: "AirBnb Clone",
+    description:
+      "Your passport to unique accommodations and unforgettable travel experiences. Modeled after Airbnb, This app connects travelers with local hosts, offering a diverse range of homes, apartments, and unique stays.",
+    tags: [
+      {
+        name: "nextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "prisma",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: aircnc,
+    source_code_link: "https://github.com/vvduth/node-natours",
+    website: "https://cnc-cnc.vercel.app/",
   },
   
 ];

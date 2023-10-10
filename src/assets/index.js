@@ -50,7 +50,12 @@ import ecom from "./ecom.png"
 import realestate from "./realestate.png"
 import chatcord from "./chatcord.png"
 import eyes from "./eyes.png"
+import twitter from "./twitter.png"
+import netflix from "./netflix.png"
+import aircnc from "./aircnc.png"
 export {
+  aircnc, 
+  netflix,
   pukedukecrypto,
   admin,
   realestate,
@@ -100,4 +105,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  twitter
 };
