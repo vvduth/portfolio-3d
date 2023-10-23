@@ -26,7 +26,7 @@ const Navbar = () => {
             Duc Thai &nbsp;
             <span className="sm:block hidden">
             
-              |&nbsp;Code and kick{" "}
+              |&nbsp;Code & More code{" "}
             </span>
           </p>
         </Link>
