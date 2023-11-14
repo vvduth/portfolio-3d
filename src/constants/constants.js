@@ -45,6 +45,8 @@ import {
   twitter,
   netflix,
   aircnc,
+  notion,
+  ai,
 } from "../assets";
 
 export const navLinks = [
@@ -401,6 +403,58 @@ const projects = [
     image: aircnc,
     source_code_link: "https://github.com/vvduth/node-natours",
     website: "https://cnc-cnc.vercel.app/",
+  },
+  {
+    name: "Notion Clone",
+    description:
+      "Designed as a homage to the popular productivity tool, Notion, this app replicates its core features with a personal twist. It allows users to create, organize, and manage notes, tasks, and schedules efficiently.",
+    tags: [
+      {
+        name: "nextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "convex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: notion,
+    source_code_link: "https://github.com/vvduth/notion-clone",
+    website: "https://note-writing-clone.vercel.app/",
+  },
+  {
+    name: "AI companion",
+    description:
+      "This innovative application allows users to craft their own AI entities, drawing inspiration from imagination, real-life figures, or fictional characters. Once created, users can engage in interactive conversations with their AI companions.",
+    tags: [
+      {
+        name: "nextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "openAI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: ai,
+    source_code_link: "https://github.com/vvduth/ai-companion",
+    website: "https://ai-companion-pearl.vercel.app/",
   },
   
 ];

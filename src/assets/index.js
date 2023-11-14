@@ -53,8 +53,12 @@ import eyes from "./eyes.png"
 import twitter from "./twitter.png"
 import netflix from "./netflix.png"
 import aircnc from "./aircnc.png"
+import notion from "./notion-clone.png"
+import ai from "./ai-companion.png"
 export {
   aircnc, 
+  notion, 
+  ai,
   netflix,
   pukedukecrypto,
   admin,
